@@ -1,6 +1,6 @@
 resource_manifest_version '44febabe-d386-4d18-afbe-5e627f4af937'
 
-description 'ESX Banker job'
+description 'ESX TD Bank'
 
 version '1.0.1'
 

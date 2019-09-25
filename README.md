@@ -1,4 +1,7 @@
-# esx_bankerjob
+# esx_tdbank
+
+## Credit
+Credit to esx_bankerjob, which the file is based from.
 
 ## Requirements
 
@@ -8,37 +11,36 @@
 
 ## Download & Installation
 
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-```
-fvm install --save --folder=esx esx-org/esx_bankerjob
-```
-
-### Using Git
-```
-cd resources
-git clone https://github.com/ESX-Org/esx_bankerjob [esx]/esx_bankerjob
-```
-
-### Manually
-- Download https://github.com/ESX-Org/esx_bankerjob/archive/master.zip
+- Download https://github.com/cloud-rowlt/esx_tdbank/archive/master.zip
 - Put it in the `[esx]` directory
 
 ## Installation
-- Import `esx_bankerjob.sql` in your database
+- Import `esx_tdbank.sql` in your database
 - Add this in your `server.cfg`:
 
 ```
-start esx_bankerjob
+start esx_tdbank
 ```
 
-# Legal
-### License
-esx_bankerjob - bank script
+## Copyright (c) 2018 Copyright Holder All Rights Reserved.
+MIT License
 
-Copyright (C) 2015-2018 Jérémie N'gadi
+Copyright (c) 2019 ElCanadian
 
-This program Is free software: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-This program Is distributed In the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty Of MERCHANTABILITY Or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License For more details.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-You should have received a copy Of the GNU General Public License along with this program. If Not, see http://www.gnu.org/licenses/.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
