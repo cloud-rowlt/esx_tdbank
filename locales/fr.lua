@@ -14,5 +14,5 @@ Locales['fr'] = {
   ['withdraw']                          = 'retrait',
   ['boss_actions']                      = 'action Patron',
   ['phone_receive']                     = 'client Banque',
-  ['phone_label']                       = 'banque',
+  ['phone_label']                       = 'Service Client TD',
 }
